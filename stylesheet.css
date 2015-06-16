@@ -1,12 +1,21 @@
-a:link {
+/*a:link {
 	text-decoration: none;
 	font-color: #6C6C6C;
-}
+}*/
 
-a:visited {
+/*a:visited {
 	text-decoration: none;
 	color: #000000;
+}*/
+
+a:link {
+	color:#6C6C6C;
+	text-decoration: none;
 }
+
+a:visited {color:#6C6C6C;}
+a:hover {color:#6C6C6C;}
+a:active {color:#6C6C6C;}
 
 .gmail {
 	position: absolute;

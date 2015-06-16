@@ -1,0 +1,238 @@
+a:link {
+	text-decoration: none;
+	font-color: #6C6C6C;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+.gmail {
+	position: absolute;
+	width: 50px;
+	height: 20px;
+	margin-top: 4px;
+	font-family: Arial;
+	font-size: 13px;
+}
+
+.images {
+	display: inline-block;
+	position: absolute;
+	width: 50px;
+	height: 20px;
+	margin-top: 4px;
+	margin-left: 50px;
+	font-family: Arial;
+	font-size: 13px;
+}
+
+
+/* --------------------Apps Icon--------------------- */
+
+.cube {		
+	display: inline-block;
+	width: 4px;
+	height: 4px;
+	background: #6C6C6C;
+	margin-left: -2px;
+}
+
+.row1 {
+	position: absolute;
+	margin-top: -7px;
+	margin-left: 115px;
+}
+
+.row2 {
+	position: absolute;
+	margin-top: -1px;
+	margin-left: 115px;
+}
+
+.row3 {
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 115px;
+}
+
+/* --------------------Sign In Button--------------------- */
+
+.signin {
+	position: absolute;
+	right: 0px;
+	margin-top: -3px;
+	width: 75px;
+	height: 30px;
+	line-height: 28px;
+	text-align: center;
+	background: #4387FD;
+	border-radius: 3px;
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+span {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
+
+.topitems {
+	position: absolute;
+	right: 10px;
+	top: 20px;
+	width: 220px;
+	height: 30px;
+}
+
+/* --------- Google logo and search form ------------- */
+
+img.g_logo {
+	display: block;
+	/*margin-top: 150px;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 270px;
+}
+
+form {
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input {
+	display: block;
+	width: 650px;
+	height: 33px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 16px;
+	font-family: Arial;
+	border: 1px solid #5B5B5B;
+	background: url(img/mic.gif) no-repeat scroll right;
+	opacity: 0.5;
+	background-size: 17px 20px;
+}
+
+.main {
+	padding-top: 150px;
+}
+
+/* -------------------- Search Buttons ------------------ */
+
+.buttoncontainer {
+	width: 250px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.leftbutton {
+	display: table-cell;
+	vertical-align: middle;
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	width: 110px;
+	height: 25px;
+	border-style: solid;
+	border-color:  #ACACAC;
+	border-width: thin;
+	border-radius: 3px;
+	background: #F5F5F5;
+}
+
+.rightbutton {
+	position: relative;
+	right: -25px;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	width: 110px;
+	height: 25px;
+	border-style: solid;
+	border-color:  #ACACAC;
+	border-width: thin;
+	border-radius: 3px;
+	background: #F5F5F5;
+}
+
+/* -------------------- Footer Section ------------------ */
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	border-top: solid 1px #E0E0E0;
+	background: #F5F5F5;
+}
+
+.leftcontainer {
+	position: absolute;
+	display: inline-block;
+	margin-left: 20px;
+	font-family: Arial;
+	font-size: 13px;
+	color: #979797;
+}
+
+.advertising {
+	position: absolute;
+	width: 50px;
+	height: 20px;
+	margin-top: 12px;
+}
+
+.business {
+	position: absolute;
+	width: 50px;
+	height: 20px;
+	margin-top: 12px;
+	margin-left: 85px;
+}
+
+.about {
+	position: absolute;
+	width: 50px;
+	height: 20px;
+	margin-top: 12px;
+	margin-left: 160px;
+}
+
+.rightcontainer {
+	position: absolute;
+	right: 190px;
+	display: inline-block;
+	margin-left: 20px;
+	font-family: Arial;
+	font-size: 13px;
+	color: #979797;
+}
+
+.privacy {
+	position: absolute;
+	margin-top: 12px;
+}
+
+.terms {
+	position: absolute;
+	margin-top: 12px;
+	margin-left: 65px;
+}
+
+.settings {
+	position: absolute;
+	margin-top: 12px;
+	margin-left: 125px;
+}
